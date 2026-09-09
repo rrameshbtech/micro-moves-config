@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Chest Opener",
+    "description": "Open your chest and reverse the forward hunch of desk posture.",
+    "slides": [
+      {
+        "description": "Preparation Posture",
+        "subText": "Sit up straight on the front edge of your chair with your feet flat on the floor.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/chest-opener/step-1.webp"
+      },
+      {
+        "description": "Hand Placement",
+        "subText": "Reach behind your back and interlace your fingers together or hold the lower back of your chair.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/chest-opener/step-2.webp"
+      },
+      {
+        "description": "The Stretch Movement",
+        "subText": "Roll your shoulders backward and gently lift your chest toward the ceiling until you feel a pull.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/chest-opener/step-3.webp"
+      },
+      {
+        "description": "Holding the Position",
+        "subText": "Hold this open position steady while taking deep, slow breaths.",
+        "durationMs": 15000,
+        "imageUri": "file:///android_asset/images/exercises/chest-opener/step-4.webp"
+      },
+      {
+        "description": "The Release",
+        "subText": "Release your hands slowly and return your body to the starting upright posture.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/chest-opener/step-5.webp"
+      }
+    ],
+    "suggestedSchedule": {
+      "frequencyMinutes": 60,
+      "activeStartHour": 9,
+      "activeEndHour": 17,
+      "daysOfWeekMask": 254
+    }
+  },
+  {
+    "id": 2,
+    "name": "Overhead reach",
+    "description": "Stretch your upper back and shoulders by reaching your arms overhead.",
+    "slides": [
+      {
+        "description": "Preparation Posture",
+        "subText": "Sit up straight in your chair with your feet flat on the ground and your spine aligned.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/overhead-reach/step-1.webp"
+      },
+      {
+        "description": "Arm Positioning",
+        "subText": "Raise both elbows to shoulder height and bend them at a 90-degree angle with palms facing forward.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/overhead-reach/step-2.webp"
+      },
+      {
+        "description": "The Stretch Movement",
+        "subText": "Push your hands straight up toward the ceiling while keeping your shoulders relaxed and down.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/overhead-reach/step-3.webp"
+      },
+      {
+        "description": "Holding the Position",
+        "subText": "Hold your arms fully extended at the top while breathing deeply to stretch your upper back.",
+        "durationMs": 15000,
+        "imageUri": "file:///android_asset/images/exercises/overhead-reach/step-4.webp"
+      },
+      {
+        "description": "The Release",
+        "subText": "Lower your elbows slowly back down to the 90-degree starting position at shoulder height.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/overhead-reach/step-5.webp"
+      }
+    ],
+    "suggestedSchedule": {
+      "frequencyMinutes": 60,
+      "activeStartHour": 9,
+      "activeEndHour": 17,
+      "daysOfWeekMask": 254
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cross-Body Stretch",
+    "description": "Release shoulder and upper-arm tension with a gentle cross-body stretch.",
+    "slides": [
+      {
+        "description": "Preparation Posture",
+        "subText": "Sit tall in the center of your chair with your feet resting flat on the floor.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/cross-body-stretch/step-1.webp"
+      },
+      {
+        "description": "Arm Positioning",
+        "subText": "Extend your right arm straight out across your chest toward the left side of your body.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/cross-body-stretch/step-2.webp"
+      },
+      {
+        "description": "Supporting the Stretch",
+        "subText": "Hook your left forearm under your right arm to pull it closer to your body.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/cross-body-stretch/step-3.webp"
+      },
+      {
+        "description": "Holding the Position",
+        "subText": "Hold this position steady while keeping your right shoulder pulled down away from your ear.",
+        "durationMs": 15000,
+        "imageUri": "file:///android_asset/images/exercises/cross-body-stretch/step-4.webp"
+      },
+      {
+        "description": "The Release",
+        "subText": "Lower both arms slowly to your lap and breathe out to relax the shoulder completely.",
+        "durationMs": 5000,
+        "imageUri": "file:///android_asset/images/exercises/cross-body-stretch/step-5.webp"
+      }
+    ],
+    "suggestedSchedule": {
+      "frequencyMinutes": 60,
+      "activeStartHour": 9,
+      "activeEndHour": 17,
+      "daysOfWeekMask": 254
+    }
+  }
+]
